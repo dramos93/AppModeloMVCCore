@@ -18,6 +18,6 @@
     <Folder Include="Models\" />
   </ItemGroup>
 
-  <ProjectExtensions><VisualStudio><UserProperties bundleconfig_1json__JsonSchema="task" /></VisualStudio></ProjectExtensions>
+  <ProjectExtensions><VisualStudio><UserProperties /></VisualStudio></ProjectExtensions>
 
 </Project>
